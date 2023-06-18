@@ -1,11 +1,11 @@
-About r-spls
-============
+About r-spls-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spls-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=spls
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spls-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides functions for fitting a sparse partial least squares (SPLS) regression and classification (Chun and Keles (2010) <doi:10.1111/j.1467-9868.2009.00723.x>).
 
